@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="searchbar_hint">Search</string>
+    <string name="name_hint">Username</string>
+    <string name="follower_user">Followers</string>
+    <string name="following_user">Following</string>
+    <string name="app_type">Type</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found">Tidak ditemukan!</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+</resources>
